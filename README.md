@@ -1,5 +1,5 @@
 # AdvOOP_part2_ex1
-Exercise 1 of Part 2 from Advanced course in OOP (Open university, UTU)
+Exercise 1 of Part 2 from Advanced course in OOP (Open university, UTU):
 Exception processing
 
 The program calculates the average of a non-empty integer array containing only non-negative numbers.
