@@ -10,3 +10,5 @@ Exceptions are added for the following cases:
 In the last case, the client catches the exception and gets all negative numbers from the array along with their indices. Then it prints this information.
 
 In the normal case (the array is not empty and for all numbers x in it x >= 0), the program outputs the float value of the array's average.
+
+All the classes are defined in src/Main.java
